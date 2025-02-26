@@ -94,24 +94,3 @@ pip install opencv-python numpy
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to use and modify it! 🚀  
-
----
-
-
-⭐ **If you find this project helpful, consider giving it a star!** ⭐  
-```
-
----
-
-### ✅ **Instructions:**  
-1. **Save the content above as `README.md`** in your project folder.  
-2. **Replace `your-username`** with your actual GitHub username.  
-3. **Add demo screenshots** by replacing the placeholder links.  
-4. **Push to GitHub:**  
-   ```bash
-   git add .
-   git commit -m "Add README for steganography project"
-   git push origin main
-   ```
-
-Would you like me to include **badges** (e.g., Python version, GitHub stars)? 😊
